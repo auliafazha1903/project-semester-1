@@ -1,0 +1,10 @@
+.gambar{
+    display: flex;
+    text-align: center;
+    margin: auto;
+}
+p {
+    text-align: justify;
+    width: 53%;
+    margin: auto;
+}
